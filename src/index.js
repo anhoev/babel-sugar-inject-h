@@ -1,6 +1,6 @@
 import syntaxJsx from '@babel/plugin-syntax-jsx'
 
-const entry = 'vue-function-api'
+const entry = '@vue/composition-api'
 
 /**
  * Check if first parameter is `h`
